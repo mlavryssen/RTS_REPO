@@ -19,8 +19,6 @@ public class BuildingPlacementController : MonoBehaviour
 
 
     [SerializeField]
-    private KeyCode newObjectHotKey = KeyCode.T;
-
 
     private GameObject currentPlaceableObject;
     private float mouseWheelRotation;

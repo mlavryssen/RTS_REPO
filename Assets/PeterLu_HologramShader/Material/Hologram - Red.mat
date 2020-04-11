@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Hologram - Green
+  m_Name: Hologram - Red
   m_Shader: {fileID: 4800000, guid: 72d02a391ea40104e8bfd8b63b73e8e2, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -64,12 +64,12 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _EmissionMultiplier: 1.4
+    - _EmissionMultiplier: 2.5
     - _GlitchDensity: 1
     - _GlitchEffectPeriod: -1.25
     - _GlitchEffectStrength: 1
     - _GlitchPeriod: 27.22
-    - _GlitchStrength: 0
+    - _GlitchStrength: 0.0028
     - _GlitchX: -0.14
     - _GlitchY: 40.53
     - _GlossMapScale: 1
@@ -94,7 +94,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GlitchDirection: {r: 1, g: 1, b: 1, a: 0}
     - _GlitchValue: {r: 0, g: 0, b: 0, a: 0}
-    - _HoloColor: {r: 0, g: 0.7924528, b: 0.093910754, a: 0.105882354}
+    - _HoloColor: {r: 0.67058825, g: 0, b: 0.110224724, a: 0.105882354}
     - _HoloDir: {r: 0, g: 1, b: 0, a: 1}
     - _HoloDirection: {r: 1, g: 0, b: 0, a: 0}
     - _RimColor: {r: 0.5477066, g: 0, b: 1, a: 1}
